@@ -28,8 +28,8 @@ python app_new.py
 内存占用：1.7 MB
 
 📄 详细文档
-详见 技术说明文档.md（含失败案例分析）
+详见 [`技术说明文档.md`](技术说明文档.md)（含失败案例分析）
 
 🔗 相关链接
-阿里云百炼
-Gradio
+- [阿里云百炼](https://www.aliyun.com/product/bailian)
+- [Gradio](https://gradio.app/)
